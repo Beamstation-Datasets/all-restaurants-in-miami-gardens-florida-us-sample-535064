@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Restaurant intelligence dataset for Miami Gardens, Florida with a population of over 111k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Miami Gardens, Florida, US",
-  "export_job_id": "dca7b8e4-971f-4ec3-a836-f988847b772f",
+  "export_job_id": "1aa130d3-6c12-4b13-a80e-ae924dc7311d",
   "github_org": "Beamstation-Datasets",
   "id_short": 535064,
   "location_name": "Miami Gardens",
   "location_type": "city",
   "repo_name": "all-restaurants-in-miami-gardens-florida-us-sample-535064",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/535064/beamstation_535064_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_pct": 10.0,
+  "sample_pct": 9.95,
   "sample_records": 20,
-  "sample_sha256": "c027aebd58c0c0e88fcd98055314da079711c820041e00f0183a0823f9e68ba4",
-  "sample_size_bytes": 79968,
-  "total_records": 200,
-  "updated_at": "2026-04-09T09:50:46.549294+00:00"
+  "sample_sha256": "43cf0c696fff0e2957cfc7a09f545be695d558d9e9ed6ec6c4978c7ef910063a",
+  "sample_size_bytes": 75570,
+  "total_records": 201,
+  "updated_at": "2026-04-16T09:45:45.574430+00:00"
 }
